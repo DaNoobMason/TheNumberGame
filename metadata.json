@@ -1,0 +1,5 @@
+{
+  "name": "The Number Game",
+  "description": "A high-stakes, sleek number guessing game where users compete against a secret number with real-time feedback and AI-powered commentary.",
+  "requestFramePermissions": []
+}
